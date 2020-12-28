@@ -1,0 +1,11 @@
+CustID,FigID,OrderID,OrderDate,Cost,LocationOrdered,LocationDelivered,CustomerRating,PaymentMethod,Discount
+5732,233,170,2007-02-01,30,store,store,5,cash,15
+21,56,56,2010-11-30,28,store,14 Bayside Av.,4,cash,0
+666,101,91,2004-06-14,50,online,6 Wayward Path,2,credit,50
+60,463,859,2020-06-16,52,store,online,3,cash,10
+35,52,667,2020-06-19,59,store,online,2,cash,21
+83,437,629,2020-07-15,28,store,online,5,credit,18
+435,851,989,2020-12-24,59,store,online,3,cash,37
+826,729,808,2020-12-25,87,store,online,4,credit,13
+360,171,162,2020-09-25,33,store,online,4,credit,15
+758,693,668,2020-12-01,30,store,online,1,credit,20

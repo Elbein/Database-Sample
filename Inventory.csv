@@ -1,0 +1,16 @@
+FigName,FigID,Height,Weight,SuppID,Price,FigCondition,Pre_owned,Material,Categories
+Millenium Falcon,233,5,10,15,30,mint,new,plastic,Star Wars
+Iron Man,56,7,13,16,28,mint,new,iron,super hero
+The Rock,101,15,20,33,50,new,mint,plastic,wrestler
+Spock,463,7,8,73,55,chipped,pre-owned,plastic,sci-fi
+Homer Simpson,52,7,5,86,87,chipped,pre-owned,plastic,cartoon
+Reggie Jackson,437,3,5,97,45,mint,pre-owned,plastic,baseball
+Superman,851,5,3,6,51,chipped,pre-owned,steel,comic
+Deadpool,729,9,2,16,59,cracked,pre-owned,iron,comic
+Mary Poppins,171,7,4,15,21,chipped,pre-owned,plastic,movie
+Luke Skywalker,693,11,4,15,33,mint,new,plastic,Star Wars
+George Washington,405,15,5,15,52,chipped,pre-owned,plastic,President
+Jake the Dog,701,7,8,56,65,chipped,pre-owned,plastic,animal
+Woody Woodpecker,925,10,3,5,98,mint,pre-owned,plastic,animal
+Batman,97,5,3,6,52,chipped,pre-owned,plastic,comic
+Harry Potter,504,8,8,73,52,mint,new,plastic,comic

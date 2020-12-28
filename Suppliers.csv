@@ -1,0 +1,11 @@
+Name,SupplierID,Phone,Email,PhysicalLocation,ShippingTime,Website,LoginID,PaymentMethod
+Disney,15,148945205,disney@gmail.com,Burbank CA,1,www.disney.com,108035170,credit
+Marvel,16,702524012,marvel@gmail.com,New York,2,www.marvel.com,979250714,credit
+Warner Bros,5,249187790,warner@looney.net,Burbank CA,3,www.warnerbros.com,707896494,cash
+DC,6,344398104,detectivecomics@batman.net,Burbank CA,5,www.detectivecomics.com,784121786,cash
+WWE,33,905866584,punchme@aol.com,Stamford CT,8,www.espn.com,458002541,cash
+Fox,86,446047535,foxpictures@gmail.com,NY,13,www.fox.com,944173644,credit
+ESPN,97,997538030,espn@sportscenter.org,Bristol CT,21,www.espn.com,127976377,cash
+Universal Studios,73,532893276,universal@studios.com,Los Angeles CA,34,www.universalstudios.com,537194620,cash
+Nickelodeon,92,977121858,nick@elodeon.com,New York,55,www.nick.com,711713840,credit
+Cartoon Network,56,176346065,network@cartoon.net,Atlanta GA,89,www.cartoonnetwork.com,214781471,credit
